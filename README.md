@@ -4,11 +4,12 @@
 
 
     Introdução:
-         Essa é um replica do projeto do Youtuber Leonardo Gonsalves  feita em sala, onde houve sim
-         desafios que superei e coisas  novas que aprendi, como animações de fonte por exemplo.
+         Essa é um replica do projeto do Youtuber Leonardo Gonsalves  
+         feita em sala, onde houve sim desafios que superei e coisas 
+         novas que aprendi, como animações de fonte por exemplo.
     O que é e pra que:
-         É um Site de entretenimento, do filme Guardiões da Gálaxia, servindo para apresentação 
-         dos personagens tão queridos do MCU.
+         É um Site de entretenimento, do filme Guardiões da Gálaxia,
+         servindo para apresentação dos personagens tão queridos do MCU.
     Tecnologias: 
           Foi usados ness projeto;
              *HTML: É o esqueleto do Site
